@@ -15,7 +15,7 @@ dev_dependencies:
 
   flutteq_lints:
     git:
-      url: git@github.com:Softeq/flutteq_lints.git
+      url: https://github.com/Softeq/flutteq_lints.git
       ref: v1.0.0
 ```
 
