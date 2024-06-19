@@ -29,3 +29,5 @@ include: package:flutteq_lints/analysis_options.yaml
 
 - [Dart Linter rules](https://dart.dev/tools/linter-rules)
 - [Customizing static analysis](https://dart.dev/tools/analysis)
+- [flutter_lints](https://github.com/flutter/packages/blob/main/packages/flutter_lints/lib/flutter.yaml)
+- [lints](https://github.com/dart-lang/lints/blob/main/lib/recommended.yaml)
