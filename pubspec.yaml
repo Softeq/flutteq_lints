@@ -1,5 +1,5 @@
 name: flutteq_lints
-version: 1.0.0
+version: 1.1.0
 description: Lint rules for Dart and Flutter used internally at Softeq.
 repository: https://github.com/Softeq/flutteq_lints
 issue_tracker: https://github.com/Softeq/flutteq_lints/issues
